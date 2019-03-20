@@ -1,0 +1,49 @@
+
+body{
+    margin: 0;
+    font-size: 1rem;
+    font-weight: bold;
+    line-height: 1.5;
+    color: White;
+    text-align: left;
+    background-color:white;
+}
+header {
+    background: -webkit-linear-gradient(top, rgba(58, 150, 245, 1) 0%,rgba(214, 214, 214, 0.69) 50%,rgba(58, 150, 245, 1) 100%);
+    padding: 20px;
+}
+header h1 {
+    color: #24272E;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+button {
+  background-color: #0A1E82;
+  border: none;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  display: inline-block;
+  font-size: 13px;
+  border-radius: 17px;
+}
+.container{
+    color:black;
+    margin-top: 0;
+}
+.PersonBox{
+    border: solid black;
+    border-radius: 30px;
+
+}
+img {
+  border-radius: 30px;
+  border: solid black;
+
+}
+.sm-button{
+    background-color: #1da1f2;
+    color:white;
+    font-weight: bold;
+}
